@@ -1,3 +1,8 @@
+---
+name: sre-news-digest
+description: Generate a categorized and rated news digest from sre.news. Use for creating SRE/DevOps/Solution Architect daily or periodic news summaries with expert scoring, article categorization, and markdown output.
+---
+
 # SRE News Digest
 
 Generate a professionally curated, categorized, and rated news digest from [sre.news](https://sre.news) with a senior SRE/DevOps/Solution Architect perspective.
